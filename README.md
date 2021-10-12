@@ -6,7 +6,7 @@ TODO
 ## Creational Patterns
 
 - [x] [Factory Method](src/main/kotlin/factory_method)
-- [ ] [Abstract Factory](src/main/kotlin/abstract_factory)
+- [X] [Abstract Factory](src/main/kotlin/abstract_factory)
 - [ ] Builder
 - [ ] Prototype
 - [ ] Singleton
