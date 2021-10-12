@@ -1,6 +1,6 @@
 # 🏭 Factory Method Pattern
 
-*Factory is a creational design pattern that provides
+*Factory method is a creational design pattern that provides
 an interface for creating objects in a super class.*
 
 ### The example
