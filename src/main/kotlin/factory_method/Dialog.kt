@@ -3,7 +3,7 @@ package factory_method
 abstract class Dialog {
     var button: Button? = null
 
-    abstract fun createButton(): Button
+    protected abstract fun createButton(): Button
 
     fun render() {
         button = createButton()
