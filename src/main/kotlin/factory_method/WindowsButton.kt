@@ -1,4 +1,4 @@
-package factory
+package factory_method
 
 class WindowsButton: Button {
     private var onClick: () -> Unit = { }

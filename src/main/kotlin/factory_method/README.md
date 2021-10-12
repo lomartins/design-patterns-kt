@@ -4,7 +4,7 @@
 an interface for creating objects in a super class.*
 
 ### The example
-Imagine a situation where our application, need to support multiple platforms, like Windows and Web/HTML. Then we need to show a dialog with a button, but there different implementation of dialog and button for each platform. We can use factory pattern to solve this.
+Imagine a situation where our application, need to support multiple platforms, like Windows and Web/HTML. Then we need to show a dialog with a button, but there different implementation of dialog and button for each platform. We can use factory_method pattern to solve this.
 
 We create a *[Button](Button.kt)* interface and a *[Dialog](Dialog.kt)* abstract class which will be extended by each platform implementation *([HTMLDialog](HTMLDialog.kt) and [WindowsDialog](WindowsDialog.kt))*.
 

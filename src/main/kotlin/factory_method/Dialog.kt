@@ -1,4 +1,4 @@
-package factory
+package factory_method
 
 abstract class Dialog {
     var button: Button? = null

@@ -1,4 +1,4 @@
-package factory
+package factory_method
 
 interface Button {
     fun render()

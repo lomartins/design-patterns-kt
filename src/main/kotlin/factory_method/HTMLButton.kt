@@ -1,4 +1,4 @@
-package factory
+package factory_method
 
 class HTMLButton: Button {
     private var onClick: () -> Unit = { }
